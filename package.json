@@ -2,6 +2,7 @@
   "name": "techplexweb",
   "homepage": "https://techplex.co.zw",
   "version": "0.1.0",
+  "author": "Sedrick_Nyanyiwa",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",

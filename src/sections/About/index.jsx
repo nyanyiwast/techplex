@@ -29,7 +29,7 @@ export const About = () => {
                 <div className="col-sm-6 col-lg-6 col-md-12 md-pb">
                     <div className="card-wrap card2">
                     <div className="image-wrap">
-                        <img src="assets/images/background1.jpg" />
+                        <img src="assets/images/background1.jpg" alt="banner1"/>
                     </div>
                     <div className="content-wrap">
                         <h5 className="mbr-section-title card-title mbr-fonts-style align-left display-4">
@@ -43,7 +43,7 @@ export const About = () => {
                 <div className="col-sm-6 col-lg-6 col-md-12">
                     <div className="card-wrap">
                     <div className="image-wrap">
-                        <img src="assets/images/background4.jpg" />
+                        <img src="assets/images/background4.jpg" alt='banner2'/>
                     </div>
                     <div className="content-wrap">
                         <h5 className="mbr-section-title card-title mbr-fonts-style align-left display-4">
