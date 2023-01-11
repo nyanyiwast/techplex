@@ -20,7 +20,7 @@ const TransparentNavbar = () => {
         <a href="#features09-5">Services</a>
         <a href="#clients01-d">Partners</a>
         <a href="#team02-8">Values</a>
-        <a href="#footer01-e">Contact</a>
+        <a href="#footer01-e">Contact </a>
       </nav>
       {/* <div className="right">
         <span><img id="search" src="http://mateen.kurdzman.net/search.png" /></span>
